@@ -1,5 +1,12 @@
 # Scripts, Estudos e Insights
 
+<!-- project-badges:start -->
+![Linguagem: Python](https://img.shields.io/static/v1?label=Linguagem&message=Python&color=3776AB&style=flat)
+![Formato: Scripts · Notebooks](https://img.shields.io/static/v1?label=Formato&message=Scripts%20%C2%B7%20Notebooks&color=F37626&style=flat)
+[![Autoria: Rebeca Diniz Moura](https://img.shields.io/static/v1?label=Autoria&message=Rebeca%20Diniz%20Moura&color=8b5cf6&style=flat)](https://github.com/RebecaGis)
+<!-- project-badges:end -->
+
+
 Coleção de estudos em Python e notebooks de geoprocessamento, geocodificação e processamento de imagens.
 
 Este repositório reúne exercícios de aprendizado e ferramentas com ambientes diferentes. Os arquivos são independentes; não constituem um único aplicativo.
